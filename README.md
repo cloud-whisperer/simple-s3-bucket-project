@@ -8,8 +8,8 @@ AWS services used for this project:
 -     Secure file uploads
 
 C++ skills and concepts
--  File handling
--  System commands
--  Error handling
--  Modularity
--  Control flow
+-     File handling
+-     System commands
+-     Error handling
+-     Modularity
+-     Control flow
