@@ -54,6 +54,8 @@ bool fileExists(const string& fileName) {
 }
 
 int main() {
+    // try/except - If the file does not exist, the FileNotFoundError is caught and prints
+    // a user-friendly message.
     try {
         // Define bucket name, policy file, and file to upload
         const string bucketName = "my-mini-project-bucket";
